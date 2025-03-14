@@ -8,7 +8,7 @@
     "url": "https://github.com/sosuisen/extension-pack-for-javafx"
   },
   "icon": "images/icon.png",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.98.0"
   },
@@ -18,7 +18,7 @@
   "extensionPack": [
     "sosuisha.javafx-controller-support",
     "sosuisha.javafx-builder-class-generator",
-    "sosuisha.javafx-property-support",    
+    "sosuisha.javafx-property-support",
     "sosuisha.maven-language-mode",
     "sosuisha.fxml-language-mode",
     "bernardoamorim7.javafx-css-support-vscode",
