@@ -1,11 +1,11 @@
 {
-  "name": "extension-pack-for-javafx",
-  "displayName": "Extension Pack for JavaFX",
+  "name": "javafx-extension-pack",
+  "displayName": "JavaFX Extension Pack",
   "description": "Useful Extensions for JavaFX Development",
   "publisher": "sosuisha",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sosuisen/extension-pack-for-javafx"
+    "url": "https://github.com/sosuisen/javafx-extension-pack"
   },
   "icon": "images/icon.png",
   "version": "1.0.0",
