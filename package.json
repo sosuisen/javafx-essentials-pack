@@ -1,0 +1,22 @@
+{
+  "name": "extension-pack-for-javafx",
+  "displayName": "Extension Pack for JavaFX",
+  "description": "Useful Extensions for JavaFX Development",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "sosuisha.javafx-builder-class-generator", 
+    "sosuisha.javafx-controller-support", 
+    "sosuisha.maven-language-mode", 
+    "sosuisha.javafx-property-support",
+    "sosuisha.fxml-language-mode",
+    "bernardoamorim7.javafx-css-support-vscode", 
+    "bilalekrem.scenebuilderextension", 
+    "redhat.vscode-xml"
+  ]
+}
