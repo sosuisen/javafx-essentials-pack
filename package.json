@@ -1,6 +1,6 @@
 {
-  "name": "javafx-extension-pack",
-  "displayName": "JavaFX Extension Pack",
+  "name": "javafx-essentials-pack",
+  "displayName": "JavaFX Essentials Pack",
   "description": "Useful Extensions for JavaFX Development",
   "publisher": "sosuisha",
   "repository": {

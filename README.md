@@ -1,12 +1,12 @@
-# JavaFX Extension Pack
+# JavaFX Essentials Pack
 
-The JavaFX Extension Pack is a collection of useful extensions designed for JavaFX development.
+The JavaFX Essentials Pack is a collection of useful extensions designed for JavaFX development.
 
 For \*Java\* development, it is also recommended to install the following: [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack).
 
 # Extensions Included
 
-By installing the JavaFX Extension Pack, the following extensions will be included:
+By installing the JavaFX Essentials Pack, the following extensions will be included:
 
 ## 📦 JavaFX Controller Support
 Diagnostics and corrections for invalid fx:id, @FXML, and fx:controller.
