@@ -34,6 +34,10 @@ Highlighter and formatter for pom.xml.
 ## 📦 FXML Language Mode
 Highlighter and formatter for FXML.
 
+Open .fxml files in Scene Builder.
+
+<img src="images/scenebuilder.png" width="300">
+
 ## 📦 JavaFX CSS Support
 Provides CSS support for JavaFX.
 
@@ -41,14 +45,6 @@ It is recommended to add the following to your workspace's settings.json:
 ```
 "css.lint.vendorPrefix": "ignore"
 ```
-
-## 📦 SceneBuilder extension for Visual Studio Code
-Open FXML files with the installed Scene Builder application.
-
-You must "Configure Scene Builder" after installation.
-For more details, visit the following URL:
-
-https://marketplace.visualstudio.com/items?itemName=bilalekrem.scenebuilderextension
 
 ## 📦 XML
 Linter and formatter for general .xml files.
