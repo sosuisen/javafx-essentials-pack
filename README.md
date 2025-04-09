@@ -38,7 +38,7 @@ Open .fxml files in Scene Builder.
 
 <img src="images/scenebuilder.png" width="300">
 
-## 📦 JavaFX CSS Support
+## 📦 CSS Helper for JavaFX
 Provides CSS support for JavaFX.
 
 It is recommended to add the following to your workspace's settings.json:

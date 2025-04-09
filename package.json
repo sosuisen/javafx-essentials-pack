@@ -21,7 +21,7 @@
     "sosuisha.javafx-property-support",
     "sosuisha.maven-language-mode",
     "sosuisha.fxml-language-mode",
-    "bernardoamorim7.javafx-css-support-vscode",
+    "sosuisha.css-helper-for-javafx",
     "redhat.vscode-xml"
   ]
 }
