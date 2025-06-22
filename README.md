@@ -13,12 +13,6 @@ Diagnostics and corrections for invalid fx:id, @FXML, and fx:controller.
 
 <img src="images/no_field_lens.png" width="240">
 
-## 📦 JavaFX Builder Class Generator
-A builder class generator for JavaFX projects.
-
-<img src="images/builder-codeaction.png" width="320">
-<img src="images/builder.png" width="320">
-
 ## 📦 JavaFX Property Support
 A generator for getters and setters for JavaFX properties.
 

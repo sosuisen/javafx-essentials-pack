@@ -17,7 +17,6 @@
   ],
   "extensionPack": [
     "sosuisha.javafx-controller-support",
-    "sosuisha.javafx-builder-class-generator",
     "sosuisha.javafx-property-support",
     "sosuisha.maven-language-mode",
     "sosuisha.fxml-language-mode",
